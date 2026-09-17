@@ -1,2 +1,1 @@
-# BTC
 bc1q6rn22eqqrew0f8k7ssvah76rv6juds04u4tal8
